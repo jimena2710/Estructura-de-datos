@@ -1,0 +1,9 @@
+public class Torres {
+      public void Torres (int numero, int inicial, int auxiliar, int destino){
+          if ( numero==1){ //caso base, si solo hay un disco
+              System.out.println("moviendo de la torre de inicio a la torre final");
+          }
+              
+      }
+    
+}
